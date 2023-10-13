@@ -1,0 +1,12 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 14
+    length: 15
+    placeholder_text: '...:  # ToDo условие проверки времени суток'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

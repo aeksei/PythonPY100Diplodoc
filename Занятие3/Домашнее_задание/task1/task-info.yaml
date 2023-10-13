@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 25
+    length: 216
+    placeholder_text: '...  # TODO выберите нужный цикл, чтобы получать числа с клавиатуры'
+- name: __init__.py
+  visible: false

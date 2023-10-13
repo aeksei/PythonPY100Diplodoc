@@ -1,0 +1,13 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 32
+    length: 120
+    placeholder_text: '...  # TODO какая есть отличительная особенность, при повторяющихся
+      числах'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

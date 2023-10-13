@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 152
+    length: 26
+    placeholder_text: '[]  # TODO записать list comprehension'
+- name: __init__.py
+  visible: false

@@ -1,0 +1,13 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 16
+    length: 26
+    placeholder_text: '...:  # ToDo напишите сюда условие проверки нечетности чисел
+      А и B'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

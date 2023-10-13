@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 59
+    length: 28
+    placeholder_text: '...  # TODO запросить у пользователя год рождения'
+  - offset: 103
+    length: 27
+    placeholder_text: '...  # TODO запросить у пользователя текущий год'
+  - offset: 132
+    length: 61
+    placeholder_text: '# TODO посчитать и распечатать количество прожитых дней'
+- name: __init__.py
+  visible: false

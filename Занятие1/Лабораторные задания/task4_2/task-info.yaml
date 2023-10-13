@@ -1,0 +1,13 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 14
+    length: 30
+    placeholder_text: '...  # TODO используя операторы умножения и сложения сформировать
+      список'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

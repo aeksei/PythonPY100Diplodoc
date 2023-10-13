@@ -1,0 +1,15 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 33
+    placeholder_text: 'def task(n, m):  # TODO указать аннотацию типов'
+  - offset: 38
+    length: 58
+    placeholder_text: '...  # TODO с помощью list comprehension отфильтровать знаечения'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

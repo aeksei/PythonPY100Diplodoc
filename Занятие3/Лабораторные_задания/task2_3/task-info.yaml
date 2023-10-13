@@ -1,0 +1,13 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 42
+    length: 148
+    placeholder_text: '...  # TODO найти список слов в строке исключив пустые строки'
+  - offset: 196
+    length: 43
+    placeholder_text: '...  # TODO вывести множество уникальных слов'
+- name: __init__.py
+  visible: false

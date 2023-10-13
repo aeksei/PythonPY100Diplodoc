@@ -1,0 +1,12 @@
+type: output
+files:
+- name: __init__.py
+  visible: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 70
+    length: 55
+    placeholder_text: '# TODO заменить значение 5-го элемента средним арифметическим'
+- name: tests/output.txt
+  visible: false

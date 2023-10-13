@@ -1,0 +1,15 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 44
+    length: 44
+    placeholder_text: '...  # TODO найти среднее арифметическое списка'
+  - offset: 93
+    length: 50
+    placeholder_text: '...  # TODO с помощью list comprehension вернуть новый список'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

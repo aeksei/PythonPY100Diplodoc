@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 126
+    length: 123
+    placeholder_text: '# TODO посчитать количество четных и нечетных значений в списке'
+- name: __init__.py
+  visible: false

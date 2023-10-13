@@ -1,0 +1,12 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 20
+    length: 11
+    placeholder_text: '# TODO поменяйте значения местами'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

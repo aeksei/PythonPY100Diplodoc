@@ -1,0 +1,17 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 21
+    length: 224
+    placeholder_text: |-
+      # TODO запишите условие для распечатывания сообщения о скорости ветра
+      if ...:
+          ...
+      elif ...:
+          ...
+      else:
+          ...
+- name: __init__.py
+  visible: false

@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 196
+    length: 25
+    placeholder_text: '# TODO посчитать через метод values'
+- name: __init__.py
+  visible: false

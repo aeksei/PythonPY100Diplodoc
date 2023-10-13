@@ -1,0 +1,33 @@
+type: output
+files:
+- name: __init__.py
+  visible: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 51
+    length: 12
+    placeholder_text: '...  # TODO для начала нужно перевести текст в нижний регистр
+      и не забыть что возвращается копия'
+  - offset: 161
+    length: 15
+    placeholder_text: '...:  # TODO с помощью метода строк isalpha будем проверять,
+      является ли символ буквой'
+  - offset: 192
+    length: 18
+    placeholder_text: '...:  # TODOпроверяем есть ли уже символ среди ключей'
+  - offset: 227
+    length: 20
+    placeholder_text: '...  # TODO если есть, то увеличиваем значение на 1'
+  - offset: 282
+    length: 19
+    placeholder_text: '...  # TODO в противном случае создаем новый элемент в словаре'
+  - offset: 389
+    length: 23
+    placeholder_text: '...  # TODO найти сумму всех значений словаря'
+  - offset: 425
+    length: 74
+    placeholder_text: '...  # TODO с помощью dict comprehension возвращаем словарь
+      с процентными соотношениями значений'
+- name: tests/output.txt
+  visible: false

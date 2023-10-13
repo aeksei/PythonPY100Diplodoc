@@ -1,0 +1,31 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 69
+    length: 37
+    placeholder_text: '...  # TODO c помощью list comprehension получить список цифр
+      числа'
+  - offset: 141
+    length: 17
+    placeholder_text: '...)  # TODO найти сумму цифр числа'
+  - offset: 170
+    length: 71
+    placeholder_text: '...)  # TODO найти сумму всех четных чисел'
+  - offset: 253
+    length: 17
+    placeholder_text: '...)  # TODO найти количество цифр'
+  - offset: 282
+    length: 17
+    placeholder_text: '...)  # TODO найти минимальную цифру'
+  - offset: 311
+    length: 17
+    placeholder_text: '...)  # TODO все цифры стоящие на нечетных местах'
+  - offset: 340
+    length: 33
+    placeholder_text: '...)  # TODO найти разность между первой и последней цифрой'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

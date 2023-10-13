@@ -1,0 +1,18 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 46
+    length: 2
+    placeholder_text: '...  # TODO количество ступеней'
+  - offset: 62
+    length: 27
+    placeholder_text: '...:  # TODO как получить последовательность чисел?'
+  - offset: 103
+    length: 9
+    placeholder_text: '(...)  # TODO печать ступени'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

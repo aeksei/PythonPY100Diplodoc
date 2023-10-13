@@ -1,0 +1,32 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 28
+    length: 3
+    placeholder_text: '...  # TODO ввести количество страниц'
+  - offset: 40
+    length: 2
+    placeholder_text: '...  # TODO ввести количество строк'
+  - offset: 51
+    length: 2
+    placeholder_text: '...  # TODO ввести количество символов в строке'
+  - offset: 69
+    length: 21
+    placeholder_text: '...  # TODO общее количество символов в книге'
+  - offset: 105
+    length: 28
+    placeholder_text: '...  # TODO размер одной книги в байтах'
+  - offset: 147
+    length: 37
+    placeholder_text: '...  # TODO размер дискеты в байтах'
+  - offset: 192
+    length: 25
+    placeholder_text: '...)  # TODO найти количество книг, которое поместится на дискете'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false
+- name: bytes_table.png
+  visible: true

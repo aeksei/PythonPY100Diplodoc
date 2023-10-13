@@ -1,0 +1,13 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 132
+    length: 204
+    placeholder_text: '# TODO  найти количество чисел сумма квадратов, которых не
+      превышает 500'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

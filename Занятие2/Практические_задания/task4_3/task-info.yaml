@@ -1,0 +1,15 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 107
+    length: 33
+    placeholder_text: '...:  # TODO как за один раз получать пару индекс-значение?'
+  - offset: 155
+    length: 13
+    placeholder_text: '..., value)  # TODO как тогда должен выглядеть индекс?'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

@@ -1,0 +1,12 @@
+type: output
+files:
+- name: __init__.py
+  visible: false
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 8
+    length: 20
+    placeholder_text: '...  # TODO список целых чисел от 50 до 100 включительно'
+- name: tests/output.txt
+  visible: false

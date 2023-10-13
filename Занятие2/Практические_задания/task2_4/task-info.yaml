@@ -1,0 +1,16 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 185
+    length: 5
+    placeholder_text: '...  # TODO Упростить выражение и получить результат True или
+      False'
+  - offset: 38
+    length: 137
+    placeholder_text: '# TODO записать упрощение выражения в виде комментариев'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

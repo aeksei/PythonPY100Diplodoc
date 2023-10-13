@@ -1,0 +1,13 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 32
+    length: 105
+    placeholder_text: '...  # TODO какая есть особенность, когда все цифры в числе
+      одинаковые?'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

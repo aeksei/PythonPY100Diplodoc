@@ -1,0 +1,20 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 59
+    length: 33
+    placeholder_text: |-
+      ...:  # TODO диапазон чисел
+              ...
+  - offset: 98
+    length: 11
+    placeholder_text: '# TODO печатаем ответ'
+  - offset: 38
+    length: 1
+    placeholder_text: '...  # TODO заводим переменную для суммы'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

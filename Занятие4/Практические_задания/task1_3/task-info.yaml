@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 39
+    length: 49
+    placeholder_text: '[i for i in range(10)]  # TODO'
+- name: __init__.py
+  visible: false

@@ -1,0 +1,21 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 157
+    length: 8
+    placeholder_text: '... # TODO как получить первый элемент?'
+  - offset: 303
+    length: 6
+    placeholder_text: '...:  # TODO где будем перебирать?'
+  - offset: 586
+    length: 26
+    placeholder_text: '...:  # TODO записать условие'
+  - offset: 678
+    length: 25
+    placeholder_text: '# TODO  если нашли, то что делаем?'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

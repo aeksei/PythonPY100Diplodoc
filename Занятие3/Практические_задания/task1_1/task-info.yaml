@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 343
+    length: 15
+    placeholder_text: '...  # TODO вызвать функцию add_func'
+- name: __init__.py
+  visible: false

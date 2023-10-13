@@ -1,0 +1,15 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 15
+    length: 24
+    placeholder_text: '...  # TODO список чисел кратных 17'
+  - offset: 47
+    length: 18
+    placeholder_text: '...)  # TODO количество чисел кратных 17'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

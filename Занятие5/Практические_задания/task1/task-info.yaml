@@ -1,0 +1,15 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 170
+    length: 19
+    placeholder_text: '...:  # TODO Как получить количество строк?'
+  - offset: 215
+    length: 30
+    placeholder_text: '...:  # TODO как получить количество столбцов?'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

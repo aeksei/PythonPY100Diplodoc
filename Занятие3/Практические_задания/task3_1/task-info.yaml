@@ -1,0 +1,16 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 46
+    length: 15
+    placeholder_text: '...  # TODO разделить строку по пробелам'
+  - offset: 130
+    length: 97
+    placeholder_text: '# TODO поместить в результирующий список все слова'
+  - offset: 283
+    length: 41
+    placeholder_text: '...  # TODO соединить список слов в строку'
+- name: __init__.py
+  visible: false

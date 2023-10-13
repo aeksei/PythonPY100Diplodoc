@@ -1,0 +1,15 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 155
+    length: 247
+    placeholder_text: |-
+      # TODO рассчитайте размер и стоимость файла
+      file_size = ...  # размер файла
+      total_coast = ...  # стоимость файла
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

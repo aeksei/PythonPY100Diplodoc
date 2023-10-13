@@ -1,0 +1,14 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 64
+    length: 11
+    placeholder_text: '...  # TODO установить текущую сумму, которая будет с каждым
+      годом уменьшаться'
+  - offset: 101
+    length: 157
+    placeholder_text: '# TODO найти минимальное количество лет'
+- name: __init__.py
+  visible: false

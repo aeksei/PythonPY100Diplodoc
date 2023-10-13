@@ -1,0 +1,20 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 17
+    length: 12
+    placeholder_text: '...  # TODO используя оператор целочисленного деления найти
+      количество десятков'
+  - offset: 34
+    length: 11
+    placeholder_text: '...  # TODO используя оператор остаток от деления найти количество
+      единиц'
+  - offset: 136
+    length: 6
+    placeholder_text: '...)  # TODO вычисления можно производить прямо в функции print'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

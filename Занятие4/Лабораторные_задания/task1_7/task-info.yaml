@@ -1,0 +1,12 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 80
+    length: 109
+    placeholder_text: 'new_list = []  # TODO Заполните список с помощью list comprehension'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: true

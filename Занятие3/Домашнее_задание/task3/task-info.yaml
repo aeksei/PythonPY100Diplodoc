@@ -1,0 +1,19 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 40
+    length: 148
+    placeholder_text: '...  # TODO получить список непустых слов'
+  - offset: 266
+    length: 159
+    placeholder_text: '...  # TODO пройти по всем словам и найти самую большую длину'
+  - offset: 431
+    length: 165
+    placeholder_text: '...  # TODO составить список из слов, длина которых равна самой
+      большой'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

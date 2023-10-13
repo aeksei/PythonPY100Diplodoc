@@ -1,0 +1,16 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 12
+    length: 37
+    placeholder_text: 'input()  # TODO заполните подсказку для функции input'
+  - offset: 51
+    length: 33
+    placeholder_text: '# TODO c помощью функции print рачпечатайте значение переменной
+      input_str и её тип'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

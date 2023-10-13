@@ -1,0 +1,12 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 8
+    length: 21
+    placeholder_text: '...  # TODO сформировать список чисел'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

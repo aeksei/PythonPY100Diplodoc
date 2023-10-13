@@ -1,0 +1,16 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 33
+    placeholder_text: 'def task(n, m):  # TODO записать функцию с аннотацией типов'
+  - offset: 38
+    length: 42
+    placeholder_text: '...  # TODO с помощью list comprehension найти квадраты целых
+      чисел'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

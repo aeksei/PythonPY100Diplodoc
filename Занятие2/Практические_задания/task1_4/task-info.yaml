@@ -1,0 +1,18 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 14
+    length: 8
+    placeholder_text: '...  # TODO запишите логическое выражение'
+  - offset: 58
+    length: 11
+    placeholder_text: '...'
+  - offset: 37
+    length: 13
+    placeholder_text: '...  # TODO записать логическое выражение'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

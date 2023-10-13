@@ -1,0 +1,17 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 79
+    length: 104
+    placeholder_text: '...  # TODO получить два списка четных и нечетных чисел'
+  - offset: 189
+    length: 53
+    placeholder_text: '...  # TODO найти длины этих списков'
+  - offset: 248
+    length: 138
+    placeholder_text: '...  # TODO распечатать каких чисел больше. Учтите, что длины
+      могу быть равны'
+- name: __init__.py
+  visible: false

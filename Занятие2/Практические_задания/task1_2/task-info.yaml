@@ -1,0 +1,22 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 9
+    length: 1
+    placeholder_text: '...'
+  - offset: 14
+    length: 0
+    placeholder_text: '  # TODO Вставьте любой оператор сравнения, чтобы выражение
+      было истинным'
+  - offset: 24
+    length: 2
+    placeholder_text: '...'
+  - offset: 40
+    length: 2
+    placeholder_text: '...'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

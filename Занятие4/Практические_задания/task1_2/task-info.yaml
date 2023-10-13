@@ -1,0 +1,10 @@
+type: theory
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 48
+    length: 41
+    placeholder_text: '[i ** 2 for i in range(n)])  # TODO добавить условие'
+- name: __init__.py
+  visible: false
